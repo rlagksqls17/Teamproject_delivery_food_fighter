@@ -2,7 +2,7 @@
 
 - **프로젝트 주제** : 코로나 전/후 확진자 및 배달주문건수 비교 및 조회, 게시판서비스를 목표로하는 **팀 프로젝트**  
 - [프로젝트 내용을 기록한 블로그링크-중간결과](https://rlagksqls17.github.io/blog/eliceproject2/)
-- 프로젝트 내용을 기록한 블로그링크-최종결과(작성 중)
+- [프로젝트 내용을 기록한 블로그링크-최종결과](https://rlagksqls17.github.io/blog/eliceproject3/)
 
 ## 1. 사용한 기술  
 
@@ -74,7 +74,7 @@
 
 **게시판 페이지**  
 
-![Imgur](https://imgur.com/rdjwOYr.jpg)
+![Imgur](https://imgur.com/jgINUC7.jpg)
 
 
 
